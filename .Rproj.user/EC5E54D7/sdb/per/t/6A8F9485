@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "### Introduction\nOne of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:\n\nhttp://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones\n\n### Source of Data\nHere are the data for the project:\n\nhttps://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip\n\n### Script Requirements\nOne R script called run_analysis.R  does the following:\n\n1. Merges the training and the test sets to create one data set.\n2. Extracts only the measurements on the mean and standard deviation for each measurement.\n3. Uses descriptive activity names to name the activities in the data set\n4. Appropriately labels the data set with descriptive variable names.\n5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.",
+    "created" : 1467840574268.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2129098076",
+    "id" : "6A8F9485",
+    "lastKnownWriteTime" : 1467841036,
+    "last_content_update" : 1467841036314,
+    "path" : "C:/Users/support/Dropbox/!Coursera/03 Clean Data/Projects/Final/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
